@@ -1,0 +1,1 @@
+{"version":1,"data":[{"type":"patterns","opts":{"sets_x_max":10,"sets_y_max":5,"p_regular":80,"w_multiplier":2,"h_multiplier":1},"number":8},{"type":"plates","opts":{"m_max":4,"h_multiplier":2,"w_multiplier":2,"p_outlined":0,"text":20,"text_light":false},"number":40}]}
